@@ -12,7 +12,7 @@
 Sou estudante do **3° semestre de Análise e Desenvolvimento de Sistemas**, apaixonado por tecnologia e sempre em busca de novos desafios no mundo da programação. Atualmente focado em desenvolver projetos práticos que demonstrem minhas habilidades técnicas e criatividade.
 
 ```javascript
-const danyel = {
+---const danyel = {
     pronouns: "ele/dele",
     currentStudy: "Análise e Desenvolvimento de Sistemas - 3° Semestre",
     focus: ["Desenvolvimento Web", "Programação", "Tecnologia"],
