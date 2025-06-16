@@ -9,7 +9,7 @@
 
 ## 🎓 Sobre eu
 
-Sou estudante do **3° semestre de Análise e Desenvolvimento de Sistemas**, apaixonado por tecnologia e sempre em busca de novos desafios no mundo da programação. Atualmente focado em desenvolver projetos práticos que demonstrem minhas habilidades técnicas e criatividade.
+Sou estudante do **4° semestre de Análise e Desenvolvimento de Sistemas**, apaixonado por tecnologia e sempre em busca de novos desafios no mundo da programação. Atualmente focado em desenvolver projetos práticos que demonstrem minhas habilidades técnicas e criatividade.
 
 ```javascript
 const danyel = {
