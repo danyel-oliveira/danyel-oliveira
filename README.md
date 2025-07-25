@@ -9,14 +9,14 @@
 
 ## 🎓 Sobre eu
 
-Sou estudante do **4° semestre de Análise e Desenvolvimento de Sistemas**, apaixonado por tecnologia e sempre em busca de novos desafios no mundo da programação. Atualmente focado em desenvolver projetos práticos que demonstrem minhas habilidades técnicas e criatividade.
+Sou estudante do **4° semestre de Análise e Desenvolvimento de Sistemas**, apaixonado por tecnologia e sempre em busca de novos desafios no mundo da programação. Atualmente focado em desenvolver projetos práticos que demonstrem minhas habilidades técnicas e criatividade. Nestes reposotórios estão projetos acadêmicos, desenvolvidos ao longos dos semestres na faculdade.
 
 ```javascript
 const danyel = {
     pronouns: "ele/dele",
-    currentStudy: "Análise e Desenvolvimento de Sistemas - 3° Semestre",
-    focus: ["Desenvolvimento Web", "Programação", "Tecnologia"],
-    currentLearning: ["JavaScript", "HTML", "CSS", "Projetos Acadêmicos"],
+    currentStudy: "Análise e Desenvolvimento de Sistemas - 4° Semestre",
+    focus: ["Desenvolvimento Web", "Programação","Banco de Dados", "IA", "Tecnologia"],
+    currentLearning: ["JavaScript", "HTML", "CSS", "PHP", "Python", "SQL", "IA", "Projetos Acadêmicos"],
     askMeAbout: ["Desenvolvimento", "Estudos em TI", "Projetos Acadêmicos"],
     hobbies: ["Coding", "Aprender novas tecnologias", "Resolver problemas"]
 };
@@ -31,6 +31,9 @@ const danyel = {
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![PHP](https://img.shields.io/badge/PHP-1572B6?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-1572B6?style=for-the-badge&logo=python&logoColor=yellow&blue)
+![SQL](https://img.shields.io/badge/SQL-1572B6?style=for-the-badge&logo=sql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
