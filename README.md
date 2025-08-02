@@ -9,7 +9,7 @@
 
 ## 🎓 Sobre eu
 
-Sou estudante do **4° semestre de Análise e Desenvolvimento de Sistemas**, apaixonado por tecnologia e sempre em busca de novos desafios no mundo da programação. Atualmente focado em desenvolver projetos práticos que demonstrem minhas habilidades técnicas e criatividade. Nestes reposotórios estão projetos acadêmicos, desenvolvidos ao longos dos semestres na faculdade.
+Sou estudante do **4° semestre de Análise e Desenvolvimento de Sistemas**, apaixonado por tecnologia e sempre em busca de novos desafios no mundo da programação. Atualmente focado em desenvolver projetos práticos que demonstrem minhas habilidades técnicas e criatividade. Nestes reposotórios estão projetos acadêmicos desenvolvidos ao longos dos semestres na faculdade e projetos pessoais.
 
 ```javascript
 const danyel = {
