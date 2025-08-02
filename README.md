@@ -39,13 +39,6 @@ const danyel = {
 
 </div>
 
-## 📂 Projetos em Destaque
-
-### 🎯 [Projetos-TI](https://github.com/danyel-oliveira/Projetos-TI)
-Repositório com todos os trabalhos e projetos desenvolvidos ao longo do meu curso de ADS. Uma coleção de aprendizados e evoluções técnicas.
-
-### 🌊 [Imersão Alura](https://github.com/danyel-oliveira/Imersao_Alura_)
-Projeto desenvolvido durante a Imersão da Alura, focando em JavaScript e desenvolvimento web.
 
 ## 📊 Estatísticas GitHub
 
