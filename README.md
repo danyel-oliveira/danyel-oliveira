@@ -36,6 +36,10 @@ const danyel = {
 ![SQL](https://img.shields.io/badge/SQL-1572B6?style=for-the-badge&logo=sql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-100000?style=for-the-badge&logo=pandas&logoColor=blue)
+![Jupyter](https://img.shields.io/badge/Jupyter-100000?style=for-the-badge&logo=gjupyter&logoColor=white)
+
+
 
 </div>
 
