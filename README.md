@@ -9,8 +9,11 @@
 
 ## 🎓 Sobre eu
 
-Sou estudante do **4° semestre de Análise e Desenvolvimento de Sistemas**, apaixonado por tecnologia e sempre em busca de novos desafios no mundo da programação. Atualmente focado em desenvolver projetos práticos que demonstrem minhas habilidades técnicas e criatividade. Nestes reposotórios estão projetos acadêmicos desenvolvidos ao longos dos semestres na faculdade e projetos pessoais.
+Estudante dedicado do 4º semestre de Análise e Desenvolvimento de Sistemas, movido por tecnologia e inovação. Com foco em desenvolvimento web, programação, banco de dados e inteligência artificial, estou constantemente expandindo minhas competências em linguagens como JavaScript, HTML, CSS, PHP, Python, SQL, além de ferramentas para análise de dados como Pandas, NumPy e Jupyter.
 
+Apaixonado por criar soluções práticas, me interesso por metodologias ágeis e DevOps para tornar o desenvolvimento mais eficiente e colaborativo. Em 2025, planejo concluir minha graduação com excelência, desenvolver projetos mais complexos, colaborar com iniciativas open source e ingressar no mercado de trabalho por meio de um estágio na área de TI.
+
+Vamos nos conectar! Cada linha de código é um passo em direção ao futuro — e estou pronto para criar o próximo junto com você.
 ```javascript
 const danyel = {
     pronouns: "ele/dele",
